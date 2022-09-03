@@ -1,6 +1,7 @@
-
-<h1 align="center">    BKAI-NAVER CHALLENGE 2022 </h1>
-
+|| 
+||    BKAI-NAVER CHALLENGE 2022
+||
+=========================================================
 ||    Vietnamese Scene Text Detection and Recognition  ||
 =========================================================
 
