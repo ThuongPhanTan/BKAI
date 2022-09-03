@@ -1,0 +1,1 @@
+cd Detecter/yolor && sh predict.sh

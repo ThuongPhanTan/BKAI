@@ -1,0 +1,1 @@
+cd Detecter/dict_guided && sh predict.sh
